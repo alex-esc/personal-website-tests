@@ -32,3 +32,18 @@ exclude:
 
 safe: true
 lsi: false
+
+other:
+  home: https://alex-esc.github.io/personal-website-tests/
+  docs: https://alex-esc.github.io/personal-website-tests/docs/document_index.html
+  about: https://alex-esc.github.io/personal-website-tests/pages/about.html
+  language: https://alex-esc.github.io/personal-website-tests/language.html
+#site.other.home
+#site.other.about
+#site.other.docs
+#site.other.language
+
+
+ plugins:
+  - jemoji
+  
