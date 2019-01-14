@@ -2,6 +2,19 @@ title:   'Alejandro Escalante'
 author:
   name:  'Alejandro Escalante'
 description:  una pagina personal
+
+other:
+  home: https://alex-esc.github.io/personal-website-tests/
+  docs: https://alex-esc.github.io/personal-website-tests/docs/document_index.html
+  about: https://alex-esc.github.io/personal-website-tests/pages/about.html
+  language: https://alex-esc.github.io/personal-website-tests/language.html
+
+
+ plugins:
+  - jemoji
+  
+
+
 path: '/personal-website-tests'
 url:  'https://alex-esc.github.io/personal-website-tests/'
 
