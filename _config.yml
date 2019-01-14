@@ -24,3 +24,7 @@ exclude:
 
 safe: true
 lsi: false
+
+
+ plugins:
+  - jemoji
