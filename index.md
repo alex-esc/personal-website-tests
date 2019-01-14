@@ -23,6 +23,8 @@ Por ahora puedes ver:
 * [Documentos](/docs/document_index.md)
 * [Un cómic](https://c.xkcd.com/random/comic/)
 
+<!--
+
 {% for post in site.posts %}
 
 <article class='post'>
@@ -36,3 +38,5 @@ Por ahora puedes ver:
 </article>
 
 {% endfor %}
+
+-->
