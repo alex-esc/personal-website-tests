@@ -5,6 +5,18 @@ description:  una pagina personal
 path: '/personal-website-tests'
 url:  'https://alex-esc.github.io/personal-website-tests/'
 
+
+
+other:
+  home: https://alex-esc.github.io/personal-website-tests/
+  docs: https://alex-esc.github.io/personal-website-tests/docs/document_index.html
+  about: https://alex-esc.github.io/personal-website-tests/pages/about.html
+  language: https://alex-esc.github.io/personal-website-tests/language.html
+
+
+ plugins:
+  - jemoji
+  
 ## Change this information for your own
 
 ## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is.
@@ -33,17 +45,3 @@ exclude:
 safe: true
 lsi: false
 
-other:
-  home: https://alex-esc.github.io/personal-website-tests/
-  docs: https://alex-esc.github.io/personal-website-tests/docs/document_index.html
-  about: https://alex-esc.github.io/personal-website-tests/pages/about.html
-  language: https://alex-esc.github.io/personal-website-tests/language.html
-#site.other.home
-#site.other.about
-#site.other.docs
-#site.other.language
-
-
- plugins:
-  - jemoji
-  
