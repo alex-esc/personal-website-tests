@@ -1,38 +1,17 @@
-title:   'Alejandro Escalante'
+title: 'Alejandro Escalante'
 author:
-  name:  'Alejandro Escalante'
-description:  'una pagina personal'
+  name: 'Alejandro Escalante'
+description: 'una pagina personal'
 
 other:
   home: 'https://alex-esc.github.io/personal-website-tests/'
   docs: 'https://alex-esc.github.io/personal-website-tests/docs/document_index.html'
   about: 'https://alex-esc.github.io/personal-website-tests/pages/about.html'
   language: 'https://alex-esc.github.io/personal-website-tests/language.html'
-
-
  plugins:
   - jemoji
-  
-
-
 path: '/personal-website-tests'
 url:  'https://alex-esc.github.io/personal-website-tests/'
-
-
-
-
-## Change this information for your own
-
-## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is.
-
-
-##############
-# Problems? if so go to the link below and read it.
-
-#####   https://github.com/henrythemes/jekyll-minimal-theme/blob/master/README.md
-
-########
-# more settings, you can ignore these.
 
 markdown: kramdown
 
@@ -45,7 +24,5 @@ permalink: /:title.html
 exclude:
 - README.md
 
-
 safe: true
 lsi: false
-
