@@ -1,0 +1,34 @@
+title:   'Alejandro Escalante'
+author:
+  name:  'Alejandro Escalante'
+description:  una pagina personal
+path: '/personal-website-tests'
+url:  'https://alex-esc.github.io/personal-website-tests/'
+
+## Change this information for your own
+
+## change path to '/YOUR BLOG TITLE' if you are making a second (or third) blog with your account, if this is your first blog just leave it as it is.
+
+
+##############
+# Problems? if so go to the link below and read it.
+
+#####   https://github.com/henrythemes/jekyll-minimal-theme/blob/master/README.md
+
+########
+# more settings, you can ignore these.
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
